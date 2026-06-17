@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Filbert-Restu/ZetaFi_api.git
+[submodule "web"]
+	path = web
+	url = https://github.com/Filbert-Restu/ZetaFi_web.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/Filbert-Restu/ZetaFi_contracts.git
