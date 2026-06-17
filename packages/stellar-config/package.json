@@ -1,0 +1,12 @@
+{
+  "name": "@zetafi/stellar-config",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^12.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
